@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Victor.
 - 🔭 I’m currently working on Memed
 - 🌱 I’m currently learning Functional Programming
 
